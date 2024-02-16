@@ -14,3 +14,4 @@ color = "" #color from the theme settings
 +++
 # this is toml, not yaml
 - why is that, and should I change?
+and now the instructions fail
